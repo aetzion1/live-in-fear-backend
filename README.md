@@ -1,11 +1,12 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+# LIVE-IN FEAR
+
+Uses government death-and-injury statistics to provide a risk-rating for everything in your house. You can create rooms and add items, and then understand how likely it is that that room will kill you!
 
 Things you may want to cover:
 
-* Ruby version
+* Ruby version: 3.0
 
 * System dependencies
 
