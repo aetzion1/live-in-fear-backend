@@ -1,8 +1,8 @@
 # README
 
-# LIVE-IN FEAR
+# Live-In Fear
 
-Uses government death-and-injury statistics to provide a risk-rating for everything in your house. You can create rooms and add items, and then understand how likely it is that that room will kill you!
+This is the backend component of Live-In Fear, the applciation that uses government death-and-injury statistics to provide a risk-rating for everything in your house. You can create rooms and add items, and then understand how likely it is that that room will kill you!
 
 Things you may want to cover:
 
